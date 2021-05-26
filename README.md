@@ -62,7 +62,7 @@ BFH/recJU7CBjgxEEI5On/2021
 
 ## 📖 License
 
-Released under the [MIT](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/LICENSE) license.
+Released under the [MIT License](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/LICENSE) license.
 
 ## TEAM
 ![Alexy](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/Alexy.jpg) | ![Anas](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/anas11%20(1).jpg) | 
