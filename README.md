@@ -37,6 +37,23 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 
 
+## Installation
+
+You can clone this repo and host the bot yourself.
+```
+git clone https://github.com/sabattle/CalypsoBot.git
+```
+After cloning, run an
+```
+npm install
+```
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed.
+
+Run
+```
+node index.js
+```
+
 ## Team Id
 
 BFH/recJU7CBjgxEEI5On/2021
