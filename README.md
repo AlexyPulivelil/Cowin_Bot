@@ -39,7 +39,7 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 
 ## How to use
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/wM_bk2TAmEI)
+[![Cowin-Bot](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/didid.png)](https://youtu.be/wM_bk2TAmEI)
 
 
 
