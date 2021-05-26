@@ -12,25 +12,22 @@ Cowin-Bot is a Discord Bot developed by <a href="https://github.com/ANASDAVOODTK
 6. <a href="https://www.npmjs.com/package/node-fetch"> node-fetch </a> : ^2.6.1
  
 
+
+
 ## How to configure and use Cowin-Bot
+
 Add <a href="https://discordapp.com/oauth2/authorize?client_id=844522949138055189&scope=bot&permissions=66186303">Cowin Bot </a> to your server. 
 
 Below are the list of comands to be used to intrect with Cowin-Bot
 
-1. ```help ``` -
-To get started with bot
-
-2. ```register ``` -
-To register for the vaccination
-
-3. ```vaccine ``` -
-To check the avaliability of vaccine at desired centers
-
-4. ```notify``` -
-To notify the user about the slot availability
-
-5. ``` myinfo``` -
-To know your registration status
+| Command | Description
+|---------|-------------|
+| ```help ``` - | To get started with bot |
+| ```register ``` - | To register for the vaccination |
+| ```vaccine ```  | To check the avaliability of vaccine at desired centers |
+| ```notify``` - | To notify the user about the slot availability |
+| ``` myinfo``` - | To know your registration status |
+| ``` stop_notify``` - | To Stop Notification |
 
 
 ## How to use
