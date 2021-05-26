@@ -41,7 +41,7 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 You can clone this repo and host the bot yourself.
 ```
-git clone https://github.com/sabattle/CalypsoBot.git
+git clone https://github.com/AlexyPulivelil/Cowin_Bot.git
 ```
 After cloning, run an
 ```
