@@ -39,7 +39,7 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 
 ## How to use
-[![Cowin-Bot](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/didid.png)](https://youtu.be/wM_bk2TAmEI)
+[![Cowin-Bot](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/didid%20(1).png)](https://youtu.be/wM_bk2TAmEI)
 
 
 
