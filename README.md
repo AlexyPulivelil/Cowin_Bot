@@ -1,6 +1,12 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 
-# Cowin-Bot
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Karma" src="https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/bot%20(1).png"> 
+
+# Cowin-Bot ✨
+
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+
+
 Cowin-Bot is a Discord Bot developed by <a href="https://github.com/ANASDAVOODTK">ANASDAVOODTK </a> and <a href="https://github.com/AlexyPulivelil">Alexy P Thomas </a> to make the vaccine registration in a feasible way. Our Bot performs fucntions like Registeration, Notification etc. This project is developed as part of **Tinkerhub Buid From Home** program
 
 ## Libraries used
