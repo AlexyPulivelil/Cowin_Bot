@@ -43,3 +43,8 @@ To know your registration status
 ## Team Id
 
 BFH/recJU7CBjgxEEI5On/2021
+
+## TEAM
+![Alexy](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Alexy.jpg) | ![Anas](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Anas.jpg) | 
+------------ | -------------
+[@AlexyPulivelil](https://github.com/AlexyPulivelil) | [@ANASDAVOODTK](https://github.com/ANASDAVOODTK)
