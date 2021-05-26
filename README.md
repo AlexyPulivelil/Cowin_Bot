@@ -37,7 +37,9 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 
 
-⚡ Installation
+
+## ⚡ Installation
+
 
 You can clone this repo and host the bot yourself.
 ```
