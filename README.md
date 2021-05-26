@@ -22,12 +22,12 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 
 | Command | Description
 |---------|-------------|
-| ```help ``` - | To get started with bot |
-| ```register ``` - | To register for the vaccination |
+| ```help ```  | To get started with bot |
+| ```register ```  | To register for the vaccination |
 | ```vaccine ```  | To check the avaliability of vaccine at desired centers |
-| ```notify``` - | To notify the user about the slot availability |
-| ``` myinfo``` - | To know your registration status |
-| ``` stop_notify``` - | To Stop Notification |
+| ```notify```  | To notify the user about the slot availability |
+| ``` myinfo```  | To know your registration status |
+| ``` stop_notify```  | To Stop Notification |
 
 
 ## How to use
