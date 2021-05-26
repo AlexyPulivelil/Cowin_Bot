@@ -33,10 +33,6 @@ To notify the user about the slot availability
 To know your registration status
 
 
-## Team members
-1. <a href="https://github.com/ANASDAVOODTK">ANASDAVOODTK </a>
-2. <a href="https://github.com/AlexyPulivelil">Alexy P Thomas </a>
-
 ## How to use
 
 
