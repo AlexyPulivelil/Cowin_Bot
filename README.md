@@ -45,6 +45,6 @@ To know your registration status
 BFH/recJU7CBjgxEEI5On/2021
 
 ## TEAM
-![Alexy](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Alexy.jpg) | ![Anas](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Anas.jpg) | 
+![Alexy](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Alexy.jpg) | ![Anas](https://firebasestorage.googleapis.com/v0/b/bot-discord-f0d02.appspot.com/o/anas11.jpg?alt=media&token=22e0ff61-245a-46ae-a4d9-a43ab8e0f80b) | 
 ------------ | -------------
 [@AlexyPulivelil](https://github.com/AlexyPulivelil) | [@ANASDAVOODTK](https://github.com/ANASDAVOODTK)
