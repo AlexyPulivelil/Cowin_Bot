@@ -5,6 +5,7 @@
 # Cowin-Bot ✨
 
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![Node.js](https://github.com/igorkowalczyk/majobot/actions/workflows/node.yml/badge.svg)](https://nodejs.org/en/)
 
 
 Cowin-Bot is a Discord Bot developed by <a href="https://github.com/ANASDAVOODTK">ANASDAVOODTK </a> and <a href="https://github.com/AlexyPulivelil">Alexy P Thomas </a> to make the vaccine registration in a feasible way. Our Bot performs fucntions like Registeration, Notification etc. This project is developed as part of **Tinkerhub Buid From Home** program
