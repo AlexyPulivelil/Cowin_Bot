@@ -62,7 +62,7 @@ BFH/recJU7CBjgxEEI5On/2021
 
 ## 📖 License
 
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
+Released under the [MIT](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/LICENSE) license.
 
 ## TEAM
 ![Alexy](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/Alexy.jpg) | ![Anas](https://github.com/AlexyPulivelil/Cowin_Bot/blob/main/attachment/anas11%20(1).jpg) | 
