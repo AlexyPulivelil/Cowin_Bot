@@ -30,8 +30,6 @@ Below are the list of comands to be used to intrect with Cowin-Bot
 | ``` stop_notify```  | To Stop Notification |
 
 
-## How to use
-
 
 ## Team Id
 
